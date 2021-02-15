@@ -1,4 +1,9 @@
+"""
+Server
+"""
 
-def foo():
+def do_nothing():
+    """
+    Does nothing
+    """
     return 'bar'
-
