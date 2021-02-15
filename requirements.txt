@@ -1,2 +1,6 @@
 pytest
+pylint
+pytest-cov
+pyflake8
+pycodestyle
 
