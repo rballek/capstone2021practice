@@ -1,5 +1,4 @@
-from c21server.server import do_nothing
+from c21server.server import home
 
-
-def test_foobar():
-    assert do_nothing() == 'bar'
+def test_home():
+    assert home() == "Hello World"
