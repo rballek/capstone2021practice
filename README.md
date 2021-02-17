@@ -42,3 +42,21 @@ Type `make test` for only pytest
 * Static analysis using `flake8`, `pycodestyle`, and `pylint`
 * Run `pytest` with coverage.  The coverage metric is set to 95%
 * Sometimes if `pytest` is installed globally, the virtual environment will use that instead. Simply exit and reenter the virtual environment to resolve this.
+
+## Contributors
+
+* Abdullah Alharbi (alharbia02@moravian.edu)
+* Alex Meci (mecia@moravian.edu)
+* Ben Coleman (colemanb@moravian.edu)
+* Colby Hillman (hillmanc@moravian.edu)
+* Emily Heiser (heisere@moravian.edu)
+* Jarod Frekot (frekotj@moravian.edu)
+* John LaPatchak (lapatchakjrj@moravian.edu)
+* Jonah Beers (beersj02@moravian.edu)
+* Jorge Aguilar (aguilarj@moravian.edu)
+* Juan Giraldo (giraldoj@moravian.edu)
+* Kylie Norwood (norwoodk@moravian.edu)
+* Larisa Fava (faval@moravian.edu)
+* Riley Kirkpatrick (kirkpatrickr@moravian.edu)
+* Trae Freeman (freemant02@moravian.edu)
+* William Brandes (brandesw@moravian.edu)
