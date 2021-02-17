@@ -36,6 +36,8 @@ A complete sample project. This project exemplifies our incredible experience as
 ## Run Static Analysis and Tests
 
 Type `make` to run:
+Type `make static` for only static tests
+Type `make test` for only pytest
 
 * Static analysis using `flake8`, `pycodestyle`, and `pylint`
 * Run `pytest` with coverage.  The coverage metric is set to 95%
