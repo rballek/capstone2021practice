@@ -1,7 +1,7 @@
 
 # Capstone2020Practice
 
-A complete sample project:
+A complete sample project. This project exemplifies our incredible experience as a team. It will help us learn git and expose common pitfalls in the GitHub workflow. The project requires use of a Python virtual environment, installation of necessary Python libraries using a requirements file, and installation of the project as an editable module.
 
 * Source code in `src` and tests in `tests`
 * Source code organized in a module, specified in `setup.py`
@@ -39,4 +39,3 @@ Type `make` to run:
 
 * Static analysis using `flake8`, `pycodestyle`, and `pylint`
 * Run `pytest` with coverage.  The coverage metric is set to 95%
-
