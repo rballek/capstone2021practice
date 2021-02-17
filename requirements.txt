@@ -3,4 +3,5 @@ pylint
 pytest-cov
 flake8
 pycodestyle
-Flask
+flask
+requests
