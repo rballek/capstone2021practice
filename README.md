@@ -1,4 +1,4 @@
-
+###
 # Capstone2020Practice
 
 A complete sample project:
@@ -31,7 +31,7 @@ A complete sample project:
   ```
   pip install -e .
   ```
-  
+
 
 ## Run Static Analysis and Tests
 
@@ -39,4 +39,3 @@ Type `make` to run:
 
 * Static analysis using `flake8`, `pycodestyle`, and `pylint`
 * Run `pytest` with coverage.  The coverage metric is set to 95%
-
